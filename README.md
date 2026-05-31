@@ -302,20 +302,6 @@ Through this project, the development team gained practical experience in:
 
 
 
-## 👨‍💻 Contributors
-
-
-
-* Mudit Kumar Singh
-
-* Project Team Members
-
-
-
----
-
-
-
 ## 📄 License
 
 
