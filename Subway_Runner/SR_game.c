@@ -4,7 +4,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <time.h>
-#include "b24cm1064_b24ci1032_b24ci1052_b24mt1010_b24me1084score.h"
+#include "SR_score.h"
 
 #define ROWS 20
 #define COLS 3
