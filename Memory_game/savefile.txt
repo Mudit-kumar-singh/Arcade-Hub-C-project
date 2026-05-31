@@ -1,0 +1,4 @@
+Harpreet
+6 1
+A G C B A F D E G B D F C H H E 
+0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
