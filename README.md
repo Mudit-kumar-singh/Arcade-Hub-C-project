@@ -1,4 +1,4 @@
-\# 🎮 Arcade Hub
+# 🎮 Arcade Hub
 
 
 
@@ -6,11 +6,11 @@ A C-based arcade gaming platform featuring multiple classic games integrated int
 
 
 
-\---
+---
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -22,51 +22,51 @@ The objective of this project is to provide an engaging gaming experience while 
 
 
 
-\### Included Games
+### Included Games
 
 
 
-\* 🧩 2048
+* 🧩 2048
 
-\* 🧠 Memory Game
+* 🧠 Memory Game
 
-\* 🏃 Subway Runner
-
-
-
-\---
+* 🏃 Subway Runner
 
 
 
-\## ✨ Features
+---
 
 
 
-\* Multiple games integrated into one project
-
-\* Modular and maintainable code structure
-
-\* Console-based user interface
-
-\* Score tracking and leaderboard systems
-
-\* File handling for saving game data
-
-\* Efficient game logic implementation
-
-\* Easy to expand with additional games
+## ✨ Features
 
 
 
-\---
+* Multiple games integrated into one project
+
+* Modular and maintainable code structure
+
+* Console-based user interface
+
+* Score tracking and leaderboard systems
+
+* File handling for saving game data
+
+* Efficient game logic implementation
+
+* Easy to expand with additional games
 
 
 
-\## 🎮 Games Included
+---
 
 
 
-\### 🧩 2048
+## 🎮 Games Included
+
+
+
+### 🧩 2048
 
 
 
@@ -74,25 +74,25 @@ A classic tile-merging puzzle game where players combine numbered tiles to reach
 
 
 
-\*\*Features\*\*
+**Features**
 
 
 
-\* Tile merging mechanics
+* Tile merging mechanics
 
-\* Score tracking
+* Score tracking
 
-\* High score management
+* High score management
 
-\* Interactive gameplay
-
-
-
-\---
+* Interactive gameplay
 
 
 
-\### 🧠 Memory Game
+---
+
+
+
+### 🧠 Memory Game
 
 
 
@@ -100,25 +100,25 @@ A card-matching game that challenges memory and concentration.
 
 
 
-\*\*Features\*\*
+**Features**
 
 
 
-\* Card matching system
+* Card matching system
 
-\* Score recording
+* Score recording
 
-\* File-based data storage
+* File-based data storage
 
-\* User-friendly gameplay
-
-
-
-\---
+* User-friendly gameplay
 
 
 
-\### 🏃 Subway Runner
+---
+
+
+
+### 🏃 Subway Runner
 
 
 
@@ -126,25 +126,25 @@ A console-based endless runner inspired by popular arcade runner games.
 
 
 
-\*\*Features\*\*
+**Features**
 
 
 
-\* Obstacle avoidance
+* Obstacle avoidance
 
-\* Score calculation
+* Score calculation
 
-\* Leaderboard functionality
+* Leaderboard functionality
 
-\* Fast-paced gameplay
-
-
-
-\---
+* Fast-paced gameplay
 
 
 
-\## 🛠 Technologies Used
+---
+
+
+
+## 🛠 Technologies Used
 
 
 
@@ -164,11 +164,11 @@ A console-based endless runner inspired by popular arcade runner games.
 
 
 
-\---
+---
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -220,11 +220,11 @@ Arcade Hub
 
 
 
-\---
+---
 
 
 
-\## 🚀 How to Run
+## 🚀 How to Run
 
 
 
@@ -252,33 +252,33 @@ ArcadeHub.exe
 
 
 
-\---
+---
 
 
 
-\## 📚 Concepts Implemented
+## 📚 Concepts Implemented
 
 
 
-\* Data Structures \& Algorithms
+* Data Structures \& Algorithms
 
-\* File Handling
+* File Handling
 
-\* Modular Programming
+* Modular Programming
 
-\* Memory Management
+* Memory Management
 
-\* Problem Solving
+* Problem Solving
 
-\* Game Development Fundamentals
-
-
-
-\---
+* Game Development Fundamentals
 
 
 
-\## 🎯 Learning Outcomes
+---
+
+
+
+## 🎯 Learning Outcomes
 
 
 
@@ -286,37 +286,37 @@ Through this project, the development team gained practical experience in:
 
 
 
-\* Designing modular software systems
+* Designing modular software systems
 
-\* Implementing interactive console applications
+* Implementing interactive console applications
 
-\* Managing persistent data through file handling
+* Managing persistent data through file handling
 
-\* Applying Data Structures and Algorithms to real-world problems
+* Applying Data Structures and Algorithms to real-world problems
 
-\* Building scalable project architectures
-
-
-
-\---
+* Building scalable project architectures
 
 
 
-\## 👨‍💻 Contributors
+---
 
 
 
-\* Mudit Kumar Singh
-
-\* Project Team Members
+## 👨‍💻 Contributors
 
 
 
-\---
+* Mudit Kumar Singh
+
+* Project Team Members
 
 
 
-\## 📄 License
+---
+
+
+
+## 📄 License
 
 
 
